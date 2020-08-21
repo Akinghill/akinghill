@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Email][email]
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: 🌈🐍
+- ⚡ Fun fact: 🇧🇷🌈🐍
 
 
 ### Connect with me:
