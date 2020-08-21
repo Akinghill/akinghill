@@ -3,7 +3,7 @@
 ## I'm a Developer, and Teacher!
 
 - 🔭 I’m currently working on a game, [LUMiN][lumin]!
-- 🌱 I’m currently learning React Hooks and Context
+- 🌱 I’m currently learning Gatsby
 - 👯 I’m looking to collaborate on educational software
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Email][email]
