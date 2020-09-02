@@ -1,10 +1,10 @@
-### Hi there, I'm Austin Hill 👋
+### Hi there, I'm Austin 👋
 
 ## I'm a Developer, and Teacher!
 
 - 🔭 I’m currently working on a game, [LUMiN][lumin]!
-- 🌱 I’m currently learning Gatsby
-- 👯 I’m looking to collaborate on educational software
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate with educators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Email][email]
 - 😄 Pronouns: he, him
