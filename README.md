@@ -1,4 +1,8 @@
-### Hi there, I'm Austin 👋
+### Hello World! I'm Austin
+
+<img src="./akinghill_bitmoji.png" style="height:150px;display:inline">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="height:150px;display:inline; border-radius:5px;margin-left:55px; margin-right: 5%">
 
 ## I'm a Developer, and Teacher!
 
@@ -13,8 +17,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="akinghill.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="padding-right: 10px" title="My Website" align="left" alt="akinghill.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img title="LinkedIn" align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 </br>
