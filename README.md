@@ -1,8 +1,6 @@
 ### Hello World! I'm Austin
 
-<img src="https://github.com/Akinghill/akinghill/blob/master/akinghill_bitmoji.png" style="height:150px;display:inline">
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="height:150px;display:inline; border-radius:5px;margin-left:55px; margin-right: 5%">
+<img src="https://github.com/Akinghill/akinghill/blob/master/akinghill_bitmoji.png" style="height: 150px; display: inline">
 
 ## I'm a Developer, and Teacher!
 
