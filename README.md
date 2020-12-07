@@ -5,13 +5,11 @@
 ## I'm a Developer, and Teacher!
 
 - 🔭 I’m currently working on building educational software
-- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate with educators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Email][email]
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: 🇧🇷🌈🐍
-
 
 ### Connect with me:
 
