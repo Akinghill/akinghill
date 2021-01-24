@@ -11,3 +11,6 @@
 - 🥅 2021 Goals: Launch a product
 - 📫 How to reach me: [Email][email]
 - 😄 Pronouns: he, him
+
+
+[email]: mailto:akinghill@gmail.com
