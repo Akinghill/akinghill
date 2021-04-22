@@ -6,7 +6,7 @@
 
 ### I'm passionate about building software that improves the lives of its users
 
-- 🔭 I’m currently working on building educational tools
+- 🔭 I’m currently working on building educational tools and systems
 - 👯 I’m looking to collaborate with educators
 - 🥅 2021 Goals: Launch a product
 - 📫 How to reach me: [Email][email]
