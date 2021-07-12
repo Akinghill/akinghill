@@ -4,7 +4,7 @@
 
 ## I'm a Developer, and Teacher. 
 
-### I'm passionate about building software that improves the lives of its users
+### I'm passionate building software and helping others learn to do that same
 
 - 🔭 I’m currently working on building educational tools and systems
 - 👯 I’m looking to collaborate with educators
